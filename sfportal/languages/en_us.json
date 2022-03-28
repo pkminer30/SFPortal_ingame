@@ -20,7 +20,8 @@
     "states": {
       "ongoing": "In Progress",
       "denied": "Denied",
-      "approved": "Approved"
+      "approved": "Approved",
+      "pending": "Pending"
     },
     "text": {
       "nobanrecord": "No Bans in record",
