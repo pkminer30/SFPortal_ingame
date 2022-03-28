@@ -6,7 +6,7 @@
       "reply": "Reply",
       "accept": "Accept",
       "deny": "Deny",
-      "open_chat": "Open Chat"
+      "openchat": "Open Chat"
     },
     "events": {
       "denied_appeal": "%s Denied this request",
@@ -16,6 +16,19 @@
       "appeals": "Ban appeals",
       "chat": "Chat",
       "status": "Status"
+    },
+    "states": {
+      "ongoing": "In Progress",
+      "denied": "Denied",
+      "approved": "Approved"
+    },
+    "text": {
+      "nobanrecord": "No Bans in record",
+      "bancount": "%s Bans in record",
+      "involved": "Involved players",
+      "message": "Messages",
+      "actions": "Actions",
+      "staff": "Staff member"
     }
   }
 }
