@@ -21,7 +21,8 @@
       "ongoing": "In Progress",
       "denied": "Denied",
       "approved": "Approved",
-      "pending": "Pending"
+      "pending": "Pending",
+      "solved": "Solved"
     },
     "text": {
       "nobanrecord": "No Bans in record",
