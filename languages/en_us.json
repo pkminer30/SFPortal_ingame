@@ -1,0 +1,17 @@
+{
+  "actions": {
+    "reply": "Reply",
+    "accept": "Accept",
+    "deny": "Deny",
+    "open_chat": "Open Chat"
+  },
+  "events": {
+    "denied_appeal": "%s Denied this request",
+    "accepted_appeal": "%s Accepted this request"
+  },
+  "pages": {
+    "appeals": "Ban appeals",
+    "chat": "Chat",
+    "status": "Status"
+  }
+}
