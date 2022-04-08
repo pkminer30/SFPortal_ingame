@@ -25,7 +25,7 @@
       "solved": "Solved"
     },
     "text": {
-      "nobanrecord": "No Bans in record",
+      "nobanrecord": "Player",
       "bancount": "%s Bans in record",
       "involved": "Involved players",
       "message": "Messages",
