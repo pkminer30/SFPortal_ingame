@@ -6,7 +6,8 @@
       "reply": "Reply",
       "accept": "Accept",
       "deny": "Deny",
-      "openchat": "Open Chat"
+      "openchat": "Open Chat",
+      "soon": "Context menu coming soon"
     },
     "events": {
       "denied_appeal": "%s Denied this request",
