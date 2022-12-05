@@ -9,11 +9,11 @@
       "soon": "Контекст меню скоро"
     },
     "events": {
-      "denied_appeal": "%s Отклонил данный запрос",
-      "accepted_appeal": "%s Принял данный запрос"
+      "denied_appeal": "%s Отклонил запрос",
+      "accepted_appeal": "%s Принял запрос"
     },
     "pages": {
-      "appeals": "Запрос на разблокировку",
+      "appeals": "Запросы на разбан",
       "chat": "Чат",
       "status": "Статус"
     },
