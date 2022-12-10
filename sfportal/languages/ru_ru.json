@@ -1,0 +1,36 @@
+{
+  "version": "1",
+  "phrases": {
+    "actions": {
+      "reply": "Ответить",
+      "accept": "Принять",
+      "deny": "Отклонить",
+      "openchat": "Чат",
+      "soon": "Контекст меню скоро"
+    },
+    "events": {
+      "denied_appeal": "%s Отклонил запрос",
+      "accepted_appeal": "%s Принял запрос"
+    },
+    "pages": {
+      "appeals": "Запросы на разбан",
+      "chat": "Чат",
+      "status": "Статус"
+    },
+    "states": {
+      "ongoing": "В процессе",
+      "denied": "Отклонено",
+      "approved": "Принято",
+      "pending": "Запрошено",
+      "solved": "Рассмотрено"
+    },
+    "text": {
+      "nobanrecord": "Игрок",
+      "bancount": "%s Блокировок",
+      "involved": "Вовлечённых игроков",
+      "message": "Сообщении",
+      "actions": "Действии",
+      "staff": "Персонал"
+    }
+  }
+}
