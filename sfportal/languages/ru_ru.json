@@ -6,11 +6,11 @@
       "accept": "Принять",
       "deny": "Отклонить",
       "openchat": "Чат",
-      "soon": "Контекст меню скоро"
+      "soon": "Скоро"
     },
     "events": {
-      "denied_appeal": "%s Отклонил запрос",
-      "accepted_appeal": "%s Принял запрос"
+      "denied_appeal": "%s отклонил запрос",
+      "accepted_appeal": "%s принял запрос"
     },
     "pages": {
       "appeals": "Запросы на разбан",
@@ -21,12 +21,12 @@
       "ongoing": "В процессе",
       "denied": "Отклонено",
       "approved": "Принято",
-      "pending": "Запрошено",
+      "pending": "В ожидании",
       "solved": "Рассмотрено"
     },
     "text": {
       "nobanrecord": "Игрок",
-      "bancount": "%s Блокировок",
+      "bancount": "%s банов",
       "involved": "Вовлечённых игроков",
       "message": "Сообщении",
       "actions": "Действии",
